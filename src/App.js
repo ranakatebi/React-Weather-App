@@ -41,7 +41,7 @@ export default function App() {
                 <div className="float-left">
                   <span className="temperature">19</span>
                   <span className="units">
-                    °C | <a>°F</a>
+                    °C | <h6>°F</h6>
                   </span>
                 </div>
               </div>
